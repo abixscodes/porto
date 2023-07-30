@@ -40,7 +40,7 @@ const About = () => {
               </div>
               <br />
               <br />
-              <a href="./src/assets/BD_Harsh_AD_resume.pdf" download>
+              <a href="./src/assets/images/BD_Harsh_AD_resume.pdf" download>
                 <button className="btn-primary">Download CV</button>
               </a>
             </div>
